@@ -5,7 +5,7 @@
 **Time:** 10:00
 
 **Program:**
-* Architectural aspects o the Geospatial Computing Platform
+* Architectural aspects of the Geospatial Computing Platform
 * Demo 
 
 ## Speaker  
